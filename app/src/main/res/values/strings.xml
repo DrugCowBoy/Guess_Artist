@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess Artist</string>
+    <string name="image_description">Картина</string>
+    <string name="true_button">Верно!</string>
+    <string name="false_button">Неправильно</string>
+    <string name="button_start">Начать</string>
+    <string name="warning">Для работы приложения необходимо подкючение к интернету</string>
+    <string name="noInternet">Ошибка интернет-соединения</string>
+</resources>
